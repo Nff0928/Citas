@@ -1,0 +1,67 @@
+/* General */
+body {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+/* Navbar */
+.navbar {
+    background-color: black;
+    padding-left: 30px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    padding: 1rem 1rem;
+}
+
+.navbar-brand:hover {
+    color: #ff3300; /* Cambia el color al pasar el cursor */
+}
+
+.navbar-toggler {
+    color: yellow;
+}
+
+/* Offcanvas */
+.offcanvas-title {
+    color: black;
+    font-size: 25px;
+}
+
+/* Navbar Items */
+.nav-item {
+    font-size: 15px;
+    height: 60px;
+}
+
+/* Image */
+.img-fluid {
+    margin-left: 30px;
+    margin-top: 10px;
+    width: 750px;
+    height: 870px;
+}
+
+/* Headings */
+h1 {
+    text-align: left;
+    padding-left: 30px;
+    font-size: 30px;
+    color: black;
+}
+
+/* Content Container */
+.container {
+    padding-left: 50px;
+    width: 600px;
+}
+
+/* Paragraph */
+.container p {
+    text-align: justify;
+}
